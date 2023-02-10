@@ -1,2 +1,1 @@
-# precourse-henry
-Repositorio de prueba del modulo 2 del precourse de henry 
+Proyecto para ver el repositorio desde el github a el escritorio.
